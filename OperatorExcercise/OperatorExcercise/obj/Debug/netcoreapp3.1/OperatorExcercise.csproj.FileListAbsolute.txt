@@ -1,0 +1,14 @@
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.exe
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.deps.json
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.json
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.runtimeconfig.dev.json
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\bin\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.AssemblyReference.cache
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfoInputs.cache
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.AssemblyInfo.cs
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.dll
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.pdb
+C:\Users\Weeb\Desktop\Repos\OperatorExcercise\OperatorExcercise\OperatorExcercise\obj\Debug\netcoreapp3.1\OperatorExcercise.genruntimeconfig.cache
